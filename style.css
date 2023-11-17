@@ -18,7 +18,7 @@ nav{
 ul,
 p{
   text-align: left;
-  line-height: 1;
+  line-height: 1.5;
   }
 /* Set the font family for any h1, h2, or h3 heading */
 h1,
@@ -36,10 +36,6 @@ article {
 article div {
   text-align: center;
   width: 100%;
-}
-
-p {
-  line-height: 1;
 }
 
 /* The div container constrains the content width within the main container to 600px */
